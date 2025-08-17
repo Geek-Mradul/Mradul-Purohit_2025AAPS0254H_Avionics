@@ -1,5 +1,7 @@
 # Team JANUS Avionics Problem Statement: Solution
 
+Name - Mradul Purohit
+ID - 2025AAPS0254H
 This repository contains the complete solutions for Task 1 and Task 2 of the Team JANUS Avionics Problem Statement.
 
 -----
