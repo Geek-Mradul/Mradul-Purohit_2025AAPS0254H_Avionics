@@ -67,7 +67,7 @@ The Arduino was programmed to implement a state machine that intelligently track
     ```
 2.  **Execution**: Place the Python script and `Raw_Test_Flight_Data_25.xlsx` in the same folder and run the script:
     ```sh
-    python Mradul_Purohit_2025AAPS0254H_Task1.py
+    python flight_analysis.py
     ```
 3.  **Output**: The script will first save the animation files (`.gif`) and then automatically open a GUI window displaying them.
 
